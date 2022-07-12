@@ -1,12 +1,19 @@
 <h1 align="center"> Hey there, I'am João Vítor and this is my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-<h3> 👉 Here's some facts about me: </h3>
+<img align="right" height="130" width="200" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
-- 🏫 **Studying Computer Engineering!**
-- 💻 **Dedicating myself to learn Node.Js!**
-- 🇧🇷 **Currently living in Brazil!**
+<img align="right" height="130" width="200" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%"/>
 
-<h3 align="center"> 🔨 Some of the technologies I have worked with: </h3>
+<h3 align="center"> 👉 Here's some facts about me: </h3>
+
+<h4 align="center">
+
+ - 🏫 **Studying Computer Engineering!**
+ - 🇧🇷 **Currently living in Brazil!**
+ - 💻 **Dedicating myself to learn Node.Js!**
+</h4>
+
+<h2 align="center"> 🔨 Some of the technologies I have worked with: </h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -25,7 +32,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJoaoRech&theme=react&layout=compact" />
 </p>
 
-<h3 align="center"> 📬 Connnect with me: </h3>
+<h2 align="center"> 📬 Connnect with me: </h3>
 
 <h3 align="center"
 
