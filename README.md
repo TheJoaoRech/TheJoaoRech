@@ -5,13 +5,9 @@
 <img align="right" height="130" width="200" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%"/>
 
 <h3 align="center"> 👉 Here's some facts about me: </h3>
+<h3 align="center"> 🏫 Studying Computer Engineering! </h3>
+<h3 align="center"> ✈️ Currently living in Brazil! </h3>
 
-<h4 align="center">
-
- - 🏫 **Studying Computer Engineering!**
- - 🇧🇷 **Currently living in Brazil!**
- - 💻 **Dedicating myself to learn Node.Js!**
-</h4>
 
 <h2 align="center"> 🔨 Some of the technologies I have worked with: </h3>
 
